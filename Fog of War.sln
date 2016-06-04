@@ -1,0 +1,29 @@
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2008
+
+Project("{383F37B9-AD15-4CED-E7B3-15AA1E054EC6}") = "Fog of War", "Assembly-CSharp.csproj", "{D2649BF2-20C4-DAC2-068C-190E9C34951B}"
+EndProject
+Project("{383F37B9-AD15-4CED-E7B3-15AA1E054EC6}") = "Fog of War", "Assembly-CSharp-Editor.csproj", "{2096E786-7249-E6B1-DE13-31413EFCE68B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D2649BF2-20C4-DAC2-068C-190E9C34951B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D2649BF2-20C4-DAC2-068C-190E9C34951B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D2649BF2-20C4-DAC2-068C-190E9C34951B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D2649BF2-20C4-DAC2-068C-190E9C34951B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2096E786-7249-E6B1-DE13-31413EFCE68B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2096E786-7249-E6B1-DE13-31413EFCE68B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2096E786-7249-E6B1-DE13-31413EFCE68B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2096E786-7249-E6B1-DE13-31413EFCE68B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(MonoDevelopProperties) = preSolution
+		StartupItem = Assembly-CSharp.csproj
+	EndGlobalSection
+EndGlobal

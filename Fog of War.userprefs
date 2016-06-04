@@ -1,0 +1,21 @@
+﻿<Properties StartupItem="Assembly-CSharp.csproj">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="Unity.Instance.Unity Editor" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/TBS Framework/Scripts/Core/Unit.cs">
+    <Files>
+      <File FileName="Assets/TBS Framework/SampleUnit.cs" Line="1" Column="1" />
+      <File FileName="Assets/TBS Framework/SampleSquare.cs" Line="1" Column="1" />
+      <File FileName="Assets/CalebScripts/FogScript.cs" Line="1" Column="1" />
+      <File FileName="Assets/CalebScripts/VisualScript.cs" Line="1" Column="1" />
+      <File FileName="Assets/TBS Framework/Scripts/Core/CellGridStateUnitSelected.cs" Line="1" Column="1" />
+      <File FileName="Assets/TBS Framework/Scripts/Core/AStarPathfinding.cs" Line="1" Column="1" />
+      <File FileName="Assets/TBS Framework/GUIController.cs" Line="170" Column="5" />
+      <File FileName="Assets/TBS Framework/Scripts/Core/HumanPlayer.cs" Line="1" Column="1" />
+      <File FileName="Assets/TBS Framework/Scripts/Core/CellGridStateWaitingForInput.cs" Line="1" Column="1" />
+      <File FileName="Assets/TBS Framework/Scripts/Core/Unit.cs" Line="174" Column="94" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
